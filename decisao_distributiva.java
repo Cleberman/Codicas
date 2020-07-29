@@ -1,3 +1,5 @@
+// Forma distributiva em álgebra booleana
+
 // modelo de decisão comum
 (a && b) || (a && c)
 
