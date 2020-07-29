@@ -1,0 +1,7 @@
+Código Javascript para fazer com que o site todo fique transparente de maneira progressiva.
+
+Este código pode ser usado como garantia de recebimento após entrega do projeto. 
+
+Instruções:
+
+Adicionar opacidade dentro da tag <body> no HTML, colar o codigo em um arquivo Javascript (*.js) e carregar na página. 
