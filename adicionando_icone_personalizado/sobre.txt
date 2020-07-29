@@ -1,0 +1,11 @@
+Comandos para exibição de ícone em arquivos autorun.inf em vários SOs simultaneamente.
+
+Instruções:
+
+Primeiramente, habilitar a exibição dos arquivos ocultos e de sistema (caso não estejam sendo exibidos).
+
+No dispositivo externo (HD, pendrive, etc), entre na pasta a ser personalizada, abra o arquivo "desktop.ini". Esse arquivo
+é utilizado pelo Windows para armazenar a personalização das pastas (modos de visão, classificação dos ícones,
+ícone da pasta...).
+
+No arquivo aberto adicione ou substitua (se já houver) as linhas de código.
