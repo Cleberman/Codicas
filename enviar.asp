@@ -1,7 +1,7 @@
 <%
 
-' Codigo ASP para envio de formulário do site da extinta "Expresso Tempo Real Ltda" disponibilizao
-' pela "InSite" (atual UOL Host).
+' Codigo ASP para envio de formulário do site da extinta "Expresso Tempo Real Ltda" disponibilizado
+' pela antiga "InSite" (atual UOL Host).
 
         strNome = Request.Form("nome")
         strEmail = Request.Form("email")
